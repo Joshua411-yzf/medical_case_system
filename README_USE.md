@@ -66,7 +66,7 @@
 
 1. **克隆项目**
 ```bash
-git clone <项目地址>
+git clone https://github.com/Joshua411-yzf/medical_case_system
 cd medical_case_system
 ```
 
